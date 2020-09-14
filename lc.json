@@ -1,5 +1,6 @@
 {
     [
-        {"Name":"ScouseWorks v3","Owner":"ScouseMouse","IP":"90.206.189.40","Active":true}
+        {"Name":"ScouseWorks v3","Active":true,"IP":"90.206.189.40","Owner":"ScouseMouse"},
+        {"Name":"Texas Department of Roleplay","Active":true,"IP":"192.99.83.46","Owner":"KittensDontFart"}
     ]
 }
