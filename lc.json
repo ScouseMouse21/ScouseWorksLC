@@ -1,7 +1,7 @@
 {
     "Servers":[
-        {"ServerName":"ScouseWorks v3","IP":"90.206.189.40"},
-        {"ServerName":"Test","IP":"20"},
-        {"ServerName":"TDRP","IP":"100.209.80.100"}
+        {"IP":"90.206.189.40","Active":true,"ServerName":"ScouseWorks v3"},
+        {"IP":"20","Active":true,"ServerName":"Test"},
+        {"IP":"100.209.80.100","Active":true,"ServerName":"TDRP"}
     ]
 }
