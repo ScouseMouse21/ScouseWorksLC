@@ -4,5 +4,7 @@
     "Riverside County Roleplay":{"Active":true,"IP":"104.243.40.154","Owner":"Criibzy"},
     "Texas Department of Roleplay":{"Active":true,"IP":"192.99.83.46","Owner":"KittensDontFart"},
     "ACRP":{"Active":true,"IP":"74.91.120.144","Owner":"Blueninja"},
-   
+    
+
+    "SCOUSEWORKS_OPTIONS":{{"Resources":["ScouseWorksCore","ScouseWorksMenus","ScouseWorksExports","ScouseWorksJobs","ScouseWorksYMap"]}},
 }
